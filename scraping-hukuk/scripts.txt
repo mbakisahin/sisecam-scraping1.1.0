@@ -1,0 +1,7 @@
+Name: bundesanzeigerWebScraping.py
+Link: https://www.bundesanzeiger.de/pub/de/start?0
+Limited page number: 2
+Keywords:
+Data Protection
+Competition Law
+Information Technology
